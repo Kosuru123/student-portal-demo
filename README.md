@@ -1,2 +1,2 @@
 # student-portal-demo
-A basic idea for a student portal application
+I am Jahnavi from BSC and Iam learning Devops
